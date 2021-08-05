@@ -1,6 +1,6 @@
 package qaguru;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Children anna = new Children();
         anna.firstName = "Anna";
