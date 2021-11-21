@@ -15,10 +15,6 @@ public class Children {
     String fatherMobile;
 
     public Children() {
-    }
-
-    public Children(String firstName, String lastName,String gender, int age, String mobile, String momName,
-                    String fatherName, String colorHair, String hobbies, String momMobile, String fatherMobile) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.gender = gender;
